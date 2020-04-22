@@ -1,1 +1,1 @@
-This is an advertisment project from Codecademy
+This is an advertisment project for Codecademy
